@@ -1,0 +1,4 @@
+service\WorkforceOptimizer.class
+bean\OptimizerResponse.class
+app\Application.class
+controller\OptimizerController.class
